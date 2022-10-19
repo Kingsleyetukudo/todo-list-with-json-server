@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Make marketings mails",
+      "details": "Lorem ipsumhhhhh",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketings email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Make marketings email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "build a simple project on json server",
+      "details": "okay boss i will try and do that next week. ",
+      "complete": true,
+      "id": 6
+    },
+    {
+      "title": "check for new update on nuxtjs",
+      "details": "already that will be done before the week runs out.",
+      "complete": false,
+      "id": 7
+    }
+  ]
+}
